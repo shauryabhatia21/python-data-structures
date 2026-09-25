@@ -1,6 +1,6 @@
 # 📊 Python Data Structures & Collections (Lists, Dictionaries & Tuples)
 
-A comprehensive suite of foundational and enterprise-level in-memory data structures demonstrating **Lists (dynamic arrays), Dictionaries (hash maps), and Tuples (immutable sequences)** built by **[Shaurya Bhatia](https://github.com/shauryabhatia10)**.
+A comprehensive suite of foundational and enterprise-level in-memory data structures demonstrating **Lists (dynamic arrays), Dictionaries (hash maps), and Tuples (immutable sequences)** built by **[Shaurya Bhatia](https://github.com/shauryabhatia21)**.
 
 ---
 
@@ -77,6 +77,6 @@ python -m compileall .
 ---
 
 <div align="center">
-  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia10)</b><br/>
+  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia21)</b><br/>
   <i>Undergraduate in Artificial Intelligence @ Bennett University</i>
 </div>
